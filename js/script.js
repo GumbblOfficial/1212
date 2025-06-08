@@ -20,9 +20,9 @@ const countryData = {
 
 // Firebase configuration (replace with your Firebase project details)
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
+    apiKey: "AIzaSyCF-Y2lteYNLNhlFHX8QG0xA9SalTxt8ps",
     authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
+    projectId: "project-4935752214585751688",
     storageBucket: "YOUR_STORAGE_BUCKET",
     messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
     appId: "YOUR_APP_ID"
